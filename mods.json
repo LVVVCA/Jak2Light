@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "sourceName": "Jak2Light",
-  "lastUpdated": "2026-10-24T18:00:00Z",
+  "lastUpdated": "2026-10-24T20:00:00Z",
   "mods": {
     "jak2light": {
       "displayName": "Light Jak (Jak II)",
@@ -17,6 +17,27 @@
         "jak2"
       ],
       "versions": [
+        {
+          "version": "0.1.6",
+          "publishedDate": "2026-10-24T20:00:00Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/LVVVCA/Jak2Light/releases/download/v0.1.6/jak2light-v0.1.6.zip",
+            "linux": null,
+            "macos": null
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "0.1.5",
           "publishedDate": "2026-10-24T18:00:00Z",
@@ -39,8 +60,8 @@
           }
         }
       ],
-      "coverArtUrl": "https://github.com/LVVVCA/Jak2Light/releases/download/v0.1.5/jak2light-cover.webp",
-      "thumbnailArtUrl": "https://github.com/LVVVCA/Jak2Light/releases/download/v0.1.5/jak2light-cover.webp",
+      "coverArtUrl": "https://github.com/LVVVCA/Jak2Light/releases/download/v0.1.6/jak2light-cover.webp",
+      "thumbnailArtUrl": "https://github.com/LVVVCA/Jak2Light/releases/download/v0.1.6/jak2light-cover.webp",
       "perGameConfig": {
         "jak2": {
           "releaseDate": "2026-10-23"
